@@ -1,2 +1,4 @@
 # Cortexlimb
-Sample code with Neel
+Sample code 
+Patent pending on research
+
